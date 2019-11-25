@@ -1,0 +1,29 @@
+{
+  "name": "zero-ao-deploy",
+  "version": "1.0.0",
+  "description": "Repositório do Workshop do 0 ao deploy com Node",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "pg": "^7.14.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.2",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobotti/zero-ao-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigobotti/zero-ao-deploy/issues"
+  },
+  "homepage": "https://github.com/rodrigobotti/zero-ao-deploy#readme"
+}
